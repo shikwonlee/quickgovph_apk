@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickGov PH</string>
+    <string name="app_description">QuickGov PH</string>
+    <string name="developer">entrep.quickgov.ph</string>
+    <string name="website">https://quickgovph.vercel.app/</string>
+</resources>
